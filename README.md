@@ -33,7 +33,8 @@ Welcome to **Wallpaper Maze**, your go-to app for downloading HD wallpapers effo
 
 Check out the Kodular blocks used to build the app:
 
-![Blocks Image](path-to-blocks-image)
+![Blocks Image](https://raw.githubusercontent.com/shibbux/Wallpaper_maze/refs/heads/main/Screenshot_2024-10-21-12-19-05-799_com.android.chrome-edit.jpg)
+![Blocks Image](https://raw.githubusercontent.com/shibbux/Wallpaper_maze/refs/heads/main/Screenshot_2024-10-21-12-14-12-877_com.android.chrome-edit.jpg)
 
 ## 🚀 Getting Started
 
