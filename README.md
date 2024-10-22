@@ -1,6 +1,6 @@
 # 🌌 Wallpaper Maze
 
-![App Logo](path-to-your-logo)
+![App Logo](https://i.imgur.com/8Ft6pm5.jpeg)
 
 Welcome to **Wallpaper Maze**, your go-to app for downloading HD wallpapers effortlessly! This online application, built using Kodular, allows users to explore and download a vast collection of stunning wallpapers.
 
@@ -25,9 +25,9 @@ Welcome to **Wallpaper Maze**, your go-to app for downloading HD wallpapers effo
 
 ## 📷 Screenshots
 
-![Screenshot 1](path-to-screenshot1)
-![Screenshot 2](path-to-screenshot2)
-![Screenshot 3](path-to-screenshot3)
+![Screenshot 1](https://i.imgur.com/7tC8QBj_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+![Screenshot 2](https://i.imgur.com/T9dXPjj_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+![Screenshot 3](https://i.imgur.com/tgYBium_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
 
 ## 🛠️ Blocks
 
